@@ -43,4 +43,4 @@ Análisis realizado a ConnectaTel, empresa de telecomunicaciones con operaciones
 - Datasets del Proyecto
 
 ## :checkered_flag: Link a notebook de resultados y análisis
-[Análisis de ConnectaTel](https://github.com/manuelmichoacan/ConnectaTel)  
+[Análisis de ConnectaTel](https://github.com/manuelmichoacan/ConnectaTel/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)  
